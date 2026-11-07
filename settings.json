@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "thehorizonssmp.play.hosting",
-    "port": 11047,
+    "port": 25565,
     "version": "26.3",
     "try-creative": false
   },
