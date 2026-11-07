@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
-    "password": "",
+    "username": "BOT",
+    "password": "caca12345",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "thehorizonssmp.play.hosting",
+    "port": 11047,
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "YourAuthPassword"
+      "password": "bot"
     },
     "anti-afk": {
       "enabled": true,
